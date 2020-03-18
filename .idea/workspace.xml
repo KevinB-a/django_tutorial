@@ -2,31 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="756e69e8-62ac-499a-8a09-f98f7c9dbdea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/image/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/dist/django-polls-0.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/django_polls.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/django_polls.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/django_polls.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/django_polls.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/polls/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/polls/templates/polls/image/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-polls/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/admin/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/static/polls/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/image/background.gif" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/templates/polls/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-polls/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZD8mvtclETTiJ2b9xDhVFKZ805" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/templates/admin" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django-polls" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/templates/admin" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,6 +85,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="516" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584362754389">
       <screen x="67" y="27" width="1533" height="873" />
@@ -50,10 +97,10 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="901" y="268" width="607" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1533.873@67.27.1533.873" timestamp="1584452665201" />
-    <state x="865" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1584431912095">
+    <state x="865" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1584518173111">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="865" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1584431912095" />
+    <state x="865" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1584518173111" />
     <state x="873" y="153" width="662" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584452102609">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
